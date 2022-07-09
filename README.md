@@ -6,7 +6,7 @@
   <a href="https://redux-toolkit.js.org/" target="_blank"> <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/></a>
   <a href="https://tanstack.com/query/v4/?from=reactQueryV3&original=https://react-query-v3.tanstack.com/" target="_blank"> <img src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" alt="React-Query"/></a>
    <a href="https://getbootstrap.com/" target="_blank"> <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/></a>
-    <a href="https://chakra-ui.com/" target="_blank"> <img src=" <a href="https://getbootstrap.com/" target="_blank"> <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/></a>" alt="Chackra-UI"/></a>
+    <a href="https://chakra-ui.com/" target="_blank"> <img src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white"  alt="Chackra-UI"/></a>
 <a href="https://jquery.com/" target="_blank"> <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery"/></a>
 <br>
 
