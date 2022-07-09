@@ -3,8 +3,10 @@
 <a href="https://js.org/" target="_blank"> <img src="https://img.shields.io/badge/Javascript-FFD43B?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> </a>
  <a href="https://reactjs.org/" target="_blank"> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React.js"/></a>
  <a href="https://nextjs.org/" target="_blank"> <img src="https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/></a>
- <a href="https://getbootstrap.com/" target="_blank"> <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/></a>
   <a href="https://redux-toolkit.js.org/" target="_blank"> <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/></a>
+  <a href="https://tanstack.com/query/v4/?from=reactQueryV3&original=https://react-query-v3.tanstack.com/" target="_blank"> <img src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" alt="React-Query"/></a>
+   <a href="https://getbootstrap.com/" target="_blank"> <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/></a>
+    <a href="https://chakra-ui.com/" target="_blank"> <img src=" <a href="https://getbootstrap.com/" target="_blank"> <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/></a>" alt="Chackra-UI"/></a>
 <a href="https://jquery.com/" target="_blank"> <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery"/></a>
 <br>
 
@@ -13,6 +15,7 @@
 <a href="[https://jupyter.org/](https://expressjs.com/de/)" target="_blank"> <img src="https://img.shields.io/badge/Express-EEEEEE?style=for-the-badge&logo=express&logoColor=black" alt="Express"/> </a>
 <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/></a>
 <a href="https://www.postman.com/" target="_blank"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/></a>
+<a href="https://insomnia.rest/"> <img src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE" alt="Insomnia"/></a>
 <br>
 
 ### Data
